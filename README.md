@@ -1,7 +1,7 @@
  <h1 align="left">Hi 👋, I'm Mahesh Jarhad</h1>
  
  <h3 align="left">  Want to know something 🤔 ... just 'DM' me 😎 or visit <a href="https://www.linkedin.com/in/mahesh-jarhad-95b62a21a/">
-   alt="LinkedIn"
+   "LinkedIn" !!!
 </a> </h3> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-RJ&show_icons=true&count_private=true&theme=gruvbox ">
