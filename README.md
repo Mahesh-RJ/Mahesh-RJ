@@ -1,6 +1,6 @@
- <h1 align="center">Hi 👋, I'm Mahesh Jarhad</h1>
+ <h1 align="left">Hi 👋, I'm Mahesh Jarhad</h1>
  
- <h2 align="left">  Want to know something 🤔 ...just 'DM' me 😎!!! </h2> 
+ <h3 align="left">  Want to know something 🤔 ... just 'DM' me 😎 </h3> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-RJ&show_icons=true&count_private=true&theme=gruvbox ">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-RJ&theme=dark&layout=compact" />
